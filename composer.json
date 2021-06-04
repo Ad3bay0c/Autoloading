@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "App\\Library\\": "App/Library",
+      "App\\Config\\": "App/Config"
+    },
+    "files": [
+      "App/function.php"
+    ]
+  }
+}
